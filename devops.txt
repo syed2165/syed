@@ -1,0 +1,4 @@
+     devops
+
+Git--- version controling
+code-- store --- local reposetry
